@@ -1,16 +1,89 @@
-# ellaassignment
+📱 Flutter Auth UI – Modern Authentication Screens
 
-A new Flutter project by Ella
+This project is a fully designed, modern authentication UI built with Flutter.
+It includes a complete and visually consistent auth flow using stateful widgets, native navigation, and clean, professional UI components.
 
-## Getting Started
+🚀 Features
+✔ Modern Sign In Screen
 
-This project is a starting point for a Flutter application.
+Clean and centered layout
 
-A few resources to get you started if this is your first Flutter project:
+Custom rounded input fields with soft shadows
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Email & password fields with icons
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+“Forgot Password?” link
+
+Gradient blue sign-in button
+
+Responsive design
+
+✔ Modern Sign Up Screen
+
+White app bar with back arrow
+
+Center logo
+
+Modern rounded form fields
+
+Gradient sign-up button
+
+Smooth and professional layout
+
+✔ Forgot Password Screen
+
+White app bar with back button
+
+Email input styled with icon + shadow
+
+Gradient “Send Code” button
+
+Instructions text with subtle styling
+
+✔ 6-Digit Verification Code Screen
+
+Modern 6-box input UI
+
+Soft shadows & rounded corners
+
+Auto-focus to next box when typing
+
+Gradient “Verify” button
+
+Clean typography and spacing
+
+✔ Device Preview Integration
+
+device_preview package added
+
+Allows testing UI across different devices from main.dart
+
+✔ Asset Support
+
+Logo stored in assets/images/
+
+Easily swapped with your custom branding
+
+🧱 Tech Stack
+
+Flutter
+
+Dart
+
+Material UI
+
+DevicePreview
+
+🎨 UI Design Highlights
+
+Custom blue color theme
+
+Gradient primary buttons
+
+Soft elevation on form fields
+
+Modern rounded components
+
+Clean white app bars with simple navigation
+
+Smooth spacing and visual hierarchy
